@@ -1,5 +1,3 @@
-![Dashboard](CustomerChurnAnalysis.png)
-
 # 📊 Customer Churn Analysis
 
 ## 🔍 Project Overview
