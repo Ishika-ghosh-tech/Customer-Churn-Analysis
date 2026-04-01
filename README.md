@@ -1,4 +1,4 @@
-![Dashboard](dashboard.png)
+![Dashboard](CustomerChurnAnalysis.png)
 
 # 📊 Customer Churn Analysis
 
